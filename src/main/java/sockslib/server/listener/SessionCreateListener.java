@@ -21,7 +21,6 @@ import sockslib.server.Session;
  * @version 1.0
  * @date Nov 10, 2015 5:01 PM
  */
-@FunctionalInterface
 public interface SessionCreateListener {
 
   /**
